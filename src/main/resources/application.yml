@@ -1,0 +1,4 @@
+#Banner arranque Spring boot
+spring:
+  banner:
+    location: classpath:/carpetabanner/banner.txt
